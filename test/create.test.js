@@ -61,7 +61,6 @@ describe("Test that elements are being created properly", ()=>{
 	});
 
 	it("Should create a correct element with two children one of which is text", function(done){
-		
 		var element = dommy({
 			tag:"div",
 			attributes:{},
