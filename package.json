@@ -2,7 +2,7 @@
   "name": "dommy",
   "version": "1.0.0",
   "description": "Easily create large static DOM Trees without using innerHTML.",
-  "main": "index.js",
+  "main": "dommy.js",
   "scripts": {
     "test": "mocha --recursive ./test/**.test.js"
   },

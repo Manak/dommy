@@ -1,7 +1,7 @@
 var should = require("should");
 
 require('jsdom-global')();
-var dommy = require("../index.js");
+var dommy = require("../dommy.js");
 
 describe("Test that elements are being created properly", ()=>{
 
