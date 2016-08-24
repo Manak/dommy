@@ -1,6 +1,6 @@
 {
-  "name": "dommy",
-  "version": "1.0.0",
+  "name": "dommy.js",
+  "version": "0.0.1",
   "description": "Easily create large static DOM Trees without using innerHTML.",
   "main": "dommy.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "dom",
     "element"
   ],
-  "author": "Manak",
+  "author": "manak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Manak/dommy/issues"
