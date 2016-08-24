@@ -4,7 +4,7 @@
   "description": "Easily create large static DOM Trees without using innerHTML.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --recursive ./test/**.test.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,12 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Manak/dommy/issues"
+  },
+  "devDependencies": {
+    "jsdom": "9.4.2",
+    "jsdom-global": "2.1.0",
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
   },
   "homepage": "https://github.com/Manak/dommy#readme"
 }
