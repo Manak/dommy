@@ -31,6 +31,12 @@ Or you can use the raw github url (not recommended)
 	<script src = "https://raw.githubusercontent.com/Manak/dommy/master/dommy.js" type = "text/javascript"></script>
 ```   
 
+CDN   
+    
+    
+```
+	<script src = "//rawgit.com/Manak/dommy/master/dommy.js"></script>
+```
 If you are using dommy using the script tag, it will be available as dommy in the window object. It should be accessible as    
 
 ```
